@@ -1,0 +1,10 @@
+Package: covid19
+Priority: extra
+Section: base
+Installed-Size: 24
+Maintainer: andrejpavlenko666@gmail.com
+Architecture: all
+Version: 1.1-1
+Depends: python
+Provides: repo
+Description: This is COVID-19 data retriever
