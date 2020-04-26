@@ -3,6 +3,7 @@ REL 	= 	1
 file 	=	main.py
 
 all:
+	pip install -r req.txt
 	echo "Making main.py executable"
 	chmod +x main.py
 	
